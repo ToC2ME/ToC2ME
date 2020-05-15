@@ -5,7 +5,8 @@ The Tony Creek Dual Microseismic Experiment (ToC2ME) consists of monitoring a hy
 Provided in the same folder as this README is a schematic image of the network used for ToC2ME.
 
 
-Catalogues are listed by author.  Summaries are provided in both the respective folders and in this readme.
+
+In accordance to the data becoming public, catalogues which have been worked on by researchers at the University of Calgary are provided here to enhance further research.  Catalogues are listed by author.  Summaries are provided in both the respective folders and in this readme.
 
 
   da Silva Paes:
