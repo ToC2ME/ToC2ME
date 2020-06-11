@@ -8,7 +8,12 @@ bfdsbfndr
 
 <p> The ToC2ME data set has been commercially processed by two independent companies, and is the focus of ongoing investigation by researchers at the University of Calgary and the University of Alberta. </p>
 
-<img src="" alt="ToC2ME Geophone setup" style="width:500px;height:600px;">
+<figure>
+  <img src="" alt="ToC2ME Geophone setup - Eaton et al., 2018 (SRL)" width="180" height="300px" >
+  <figcaption> Geophone Setup from Eaton et al., 2018 (SRL). </figcaption>
+</figure>
+
+
 
 <h2> Download from IRIS </h2>
 
