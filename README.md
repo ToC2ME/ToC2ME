@@ -9,8 +9,8 @@ bfdsbfndr
 <p> The ToC2ME data set has been commercially processed by two independent companies, and is the focus of ongoing investigation by researchers at the University of Calgary and the University of Alberta. </p>
 
 <figure>
-  <img src="" alt="ToC2ME Geophone setup - Eaton et al., 2018 (SRL)" width="180" height="300px" >
-  <figcaption> Geophone Setup from Eaton et al., 2018 (SRL). </figcaption>
+  <img src="https://github.com/ToC2ME/ToC2ME/blob/master/Eaton2018_ToC2ME_Setup.png" alt="ToC2ME Geophone setup - Eaton et al., 2018 (SRL)" width="500" height="300px" >
+  <figcaption> Geophone Setup from Eaton et al., 2018 (SRL). Blue triangles = geophones; red square = co-located accelerometer; green circles = co-located broadband stations. </figcaption>
 </figure>
 
 
