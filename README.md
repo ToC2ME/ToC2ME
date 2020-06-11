@@ -1,3 +1,4 @@
+<body>
 <h2> Overview </h2>
 
 bfdsbfndr
@@ -9,11 +10,9 @@ bfdsbfndr
 <p> The ToC2ME data set has been commercially processed by two independent companies, and is the focus of ongoing investigation by researchers at the University of Calgary and the University of Alberta. </p>
 
 <figure>
-  <img src="https://github.com/ToC2ME/ToC2ME/blob/master/Eaton2018_ToC2ME_Setup.png" alt="ToC2ME Geophone setup - Eaton et al., 2018 (SRL)" width="500" height="300px" >
-  <figcaption> Geophone Setup from Eaton et al., 2018 (SRL). Blue triangles = geophones; red square = co-located accelerometer; green circles = co-located broadband stations. </figcaption>
+  <p><img src="https://github.com/ToC2ME/ToC2ME/blob/master/Eaton2018_ToC2ME_Setup.png" alt="ToC2ME Geophone setup - Eaton et al., 2018 (SRL)" width="500" height="300px" text-align="center" font-style="italic" font-size="smaller" >
+  <figcaption> Geophone Setup from <a href="https://pubs.geoscienceworld.org/ssa/srl/article/543218/induced-seismicity-characterization-during?casa_token=yArCmgQ71zcAAAAA:UXJD2MdzlhdUL5ne-4YOeuTvqB1ErPE0j6u0QSxSscg8X_ddWxPl50OUESPFCUn3MILZgKs"> Eaton et al., 2018 (SRL)</a>. Blue triangles = geophones; red square = co-located accelerometer; green circles = co-located broadband stations. </figcaption>
 </figure>
-
-
 
 <h2> Download from IRIS </h2>
 
@@ -51,3 +50,5 @@ In accordance to the data becoming public, catalogues which have been worked on 
 </br>
 
 The raw data used in the ToC2ME project is available on IRIS: https://ds.iris.edu/mda/5B/?starttime=2016-01-01T00:00:00&endtime=2017-12-31T23:59:59
+
+<\body>
