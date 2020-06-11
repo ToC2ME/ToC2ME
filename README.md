@@ -1,8 +1,26 @@
-Provided is a public database of catalogues and papers conducted by researchers at the University of Calgary on the ToC2ME project.  It is managed by Rebecca Salvage and David Eaton.  Any questions of the content available in this database can be directed to toc2me@ucalgary.ca.
+<h2> Overview </h2>
 
-</br>
+bfdsbfndr
 
-The Tony Creek Dual Microseismic Experiment (ToC2ME) consists of monitoring a hydraulic fracturing completion just west of Fox Creek, Alberta, Canada in the Kaybob-Duvernay region.  This project was aquired and ran by the University of Calgary from October 25, 2015 to December 15, 2016 and recorded over 4000 events.  These events were recorded by a network of a 68 station shallow borehole array, 6 broadband seismometers, and 1 strong-motion accelerometer.  The main purpose of this project was to observe if there were any anomalous seismic events (Mw > 0), which had been previously recorded in the area.
+<h2> The ToC2ME Field Program </h2>
+
+<p> The Tony Creek Dual Microseismic Experiment (ToC2ME) Field Porgram was a research-led project by the University of Calgary, in collaboration with a number of industry partners, investigating hydraulic fracturing within the Kaybob-Duvernay horizon in the Fox Creek area, Alberta. The ToC2ME acquisition system consisted of 69 cemented shallow boreholes, each with one three-component geophone at 27 m, and three one-component geophones at 22 m, 17 m and 12 m respectively (all OYO Geospace Seismic Recorder (GSX)-3 sensors with a sampling rate of 0.002 seconds). Furthermore, 6 boradband seismometers () and 1 strong-motion accelerometer were co-located to allow enhanced analysis of the recorded seismicity. These sensors continuously monitored a four-well hydraulic fracture experiment for ~40 days in late 2016. </p>
+
+<p> The ToC2ME data set has been commercially processed by two independent companies, and is the focus of ongoing investigation by researchers at the University of Calgary and the University of Alberta. </p>
+
+<img src="" alt="ToC2ME Geophone setup" style="width:500px;height:600px;">
+
+<h2> Download from IRIS </h2>
+
+<h2> References </h2>
+
+<h2> Contact </h2>
+
+<p> Questions regarding the catalogue, the download of data and/or previous work utilizing the ToC2ME datasets can be directed to toc2me@ucalgary.ca. </p>
+
+<p> Github site maintained by the University of Calgary. </p>
+
+
 
 Provided in the same folder as this README is a schematic image of the network used for ToC2ME.
 
