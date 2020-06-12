@@ -37,7 +37,9 @@
 
 <h2> References </h2>
 
-<p> We ask that any publications arising from this dataset reference <a href="https://pubs.geoscienceworld.org/ssa/srl/article/543218/induced-seismicity-characterization-during?casa_token=yArCmgQ71zcAAAAA:UXJD2MdzlhdUL5ne-4YOeuTvqB1ErPE0j6u0QSxSscg8X_ddWxPl50OUESPFCUn3MILZgKs"> Eaton et al., 2018 (SRL)</a>. </p>
+<p> We ask that any publications arising from this dataset reference <a href="https://pubs.geoscienceworld.org/ssa/srl/article/543218/induced-seismicity-characterization-during?casa_token=yArCmgQ71zcAAAAA:UXJD2MdzlhdUL5ne-4YOeuTvqB1ErPE0j6u0QSxSscg8X_ddWxPl50OUESPFCUn3MILZgKs"> Eaton et al., 2018 (SRL)</a>: </p>
+
+<p><blockquote> Eaton, D.W., Igonin, N., Poulin, A., Weir, R., Zhang, H., Pellegrino, S. and Rodriguez, G., 2018. Induced seismicity characterization during hydraulic‐fracture monitoring with a shallow‐wellbore geophone array and broadband sensors. <i> Seismological Research Letters</i>, 89(5), pp.1641-1651. </blockquote></p>
 
 <p> If you take advantage of the published catalogues listed here, see the folder README file for details of the reference you need! </p>
 
