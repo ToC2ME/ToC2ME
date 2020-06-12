@@ -24,7 +24,7 @@ bfdsbfndr
   <li>Data End: 2016-12-01 </li>
 </ul>
 
-<p> Please be aware that the network code 5B has been used for a number of temporary seismic deployments over the years with data housed at IRIS. In order to download the ToC2ME data, the correct dates in 2016 need to be inserted. </p>
+<p> Please be aware that the network code 5B has been used for a number of temporary seismic deployments over the years with data housed at IRIS. In order to download the ToC2ME data, the correct dates in 2016 need to be inserted. The full station list and associated metadata can be found <a href="https://ds.iris.edu/mda/5B/?starttime=2016-01-01T00:00:00&endtime=2017-12-31T23:59:59"> here</a>. </p>
 
 <h2> References </h2>
 
@@ -52,9 +52,5 @@ In accordance to the data becoming public, catalogues which have been worked on 
     
   Salvage:
     
-
-</br>
-
-The raw data used in the ToC2ME project is available on IRIS: https://ds.iris.edu/mda/5B/?starttime=2016-01-01T00:00:00&endtime=2017-12-31T23:59:59
 
 <\body>
