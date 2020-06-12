@@ -42,7 +42,7 @@
 
 <p><blockquote> Eaton, D.W., Igonin, N., Poulin, A., Weir, R., Zhang, H., Pellegrino, S. and Rodriguez, G., 2018. Induced seismicity characterization during hydraulic‐fracture monitoring with a shallow‐wellbore geophone array and broadband sensors. <i> Seismological Research Letters</i>, 89(5), pp.1641-1651. </blockquote></p>
 
-<p> If you take advantage of the published catalogues listed here, see the folder README file for details of the additional references you will need. </p>
+<p> If you take advantage of the published catalogues listed here, see the folder README.md file for details of the additional references you will need. </p>
 
 <h2> Contact </h2>
 
