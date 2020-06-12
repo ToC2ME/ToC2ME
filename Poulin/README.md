@@ -1,6 +1,6 @@
 <h2> Reference </h2>
   
-<p> Catalog_Poulin2019_FocalTimeDepth.csv contains the seismic catalog published in Poulin et al., 2019, which can be found <a href="https://library.seg.org/doi/full/10.1190/geo2019-0046.1"> here.</a></p>
+<p> Catalog_Poulin2019_FocalTimeDepth.csv contains the seismic catalog published in Poulin et al., 2019, which can be found <a href="https://library.seg.org/doi/full/10.1190/geo2019-0046.1"> here:</a></p>
 
 <blockquote> Poulin, A., Weir, R., Eaton, D., Igonin, N., Chen, Y., Lines, L. and Lawton, D., 2019, Focal-time analysis: A new method for stratigraphic depth control of microseismicity and induced seismic events. <i> Geophysics</i>, 84(6), pp.KS173-KS182. </blockquote>
 
