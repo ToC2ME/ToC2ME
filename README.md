@@ -29,7 +29,7 @@
 
 <ul>
   <li>Network Code: 5B </li>
-    <li>Stations begin with: 1* </li>
+    <li>Stations begin with: 1* (to avoid conflict with data from the NCEDC network which was also operational in the Fall of 2016 </li>
   <li>Data Start: 2016-10-25 </li>
   <li>Data End: 2016-12-01 </li>
 </ul>
