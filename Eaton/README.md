@@ -14,6 +14,7 @@ Relative locations of all event detected using the match filter approach were de
 <h2> Notes </h2>
 
 <ul>
+  <li> Locations are given within a reference frame, rather than as absolute co-ordinates, with the reference being the minimum of the receiver locations. </li>
   <li> There are a number of know duplicate events within this catalog, which can be removed if necessary. </li>
   <li> A number of events from this catalog were used in the work of Poulin et al. (see <a href="https://github.com/ToC2ME/ToC2ME/tree/master/Poulin"> Poulin</a> on this site). </li>
 </ul> 
