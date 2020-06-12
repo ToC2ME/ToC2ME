@@ -1,7 +1,16 @@
 <body>
 <h2> Overview </h2>
 
-bfdsbfndr
+In accordance to the data becoming public, catalogues which have been worked on by researchers at the University of Calgary are provided here to enhance further research.  Catalogues are listed by author.  Summaries are provided in both the respective folders and in this readme.
+    
+  Eaton:
+    
+  Igonin:
+   
+  Poulin:
+    
+  Rodriguez:
+  
 
 <h2> The ToC2ME Field Program </h2>
 
@@ -33,24 +42,5 @@ bfdsbfndr
 <p> Questions regarding the catalogue, the download of data and/or previous work utilizing the ToC2ME datasets can be directed to toc2me@ucalgary.ca. </p>
 
 <p> Github site maintained by the University of Calgary. </p>
-
-</br>
-
-In accordance to the data becoming public, catalogues which have been worked on by researchers at the University of Calgary are provided here to enhance further research.  Catalogues are listed by author.  Summaries are provided in both the respective folders and in this readme.
-
-
-  da Silva Paes:
-    
-  Eaton:
-    
-  Igonin:
-    
-    
-  Poulin:
-    
-  Rodriguez:
-    
-  Salvage:
-    
 
 <\body>
