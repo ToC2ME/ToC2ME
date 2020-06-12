@@ -1,20 +1,20 @@
 <body>
 <h2> Overview </h2>
 
-In accordance to the data becoming public, catalogues which have been worked on by researchers at the University of Calgary are provided here to enhance further research.  Catalogues are listed by author.  Summaries are provided in both the respective folders and in this readme.
+<p> Previously published catalogues using data from the ToC2ME field program are archived here. Summaries of the research undertaken, the published catalogue, and a link to the published paper can be found within each corresponding folder. </p>
     
-  Eaton:
+<b> Eaton:</b>
     
-  Igonin:
+<b> Igonin:</b>
    
-  Poulin:
+<b> Poulin:</b>
     
-  Rodriguez:
+<b> Rodriguez-Pradilla:</b>
   
 
 <h2> The ToC2ME Field Program </h2>
 
-<p> The Tony Creek Dual Microseismic Experiment (ToC2ME) Field Porgram was a research-led project by the University of Calgary, in collaboration with a number of industry partners, investigating hydraulic fracturing within the Kaybob-Duvernay horizon in the Fox Creek area, Alberta. The ToC2ME acquisition system consisted of 69 cemented shallow boreholes, each with one three-component geophone at 27 m, and three one-component geophones at 22 m, 17 m and 12 m respectively (all OYO Geospace Seismic Recorder (GSX)-3 sensors with a sampling rate of 0.002 seconds). Furthermore, 6 boradband seismometers (Nanometrics Trillium Compact 20s) and 1 strong-motion accelerometer were co-located to allow enhanced analysis of the recorded seismicity. These sensors continuously monitored a four-well hydraulic fracture experiment for ~40 days in late 2016. </p>
+<p> The Tony Creek Dual Microseismic Experiment (ToC2ME) field program was a research-led project by the University of Calgary, in collaboration with a number of industry partners, investigating hydraulic fracturing within the Kaybob-Duvernay horizon in the Fox Creek area, Alberta. The ToC2ME acquisition system consisted of 69 cemented shallow boreholes, each with one three-component geophone at 27 m, and three one-component geophones at 22 m, 17 m and 12 m respectively (all OYO Geospace Seismic Recorder (GSX)-3 sensors with a sampling rate of 0.002 seconds). Furthermore, 6 boradband seismometers (Nanometrics Trillium Compact 20s) and 1 strong-motion accelerometer were co-located to allow enhanced analysis of the recorded seismicity. These sensors continuously monitored a four-well hydraulic fracture experiment for ~40 days in late 2016. </p>
 
 <p> The ToC2ME data set has been commercially processed by two independent companies, and is the focus of ongoing investigation by researchers at the University of Calgary and the University of Alberta. </p>
 
