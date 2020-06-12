@@ -23,7 +23,7 @@
   <figcaption> Geophone Setup, Figure taken from <a href="https://pubs.geoscienceworld.org/ssa/srl/article/543218/induced-seismicity-characterization-during?casa_token=yArCmgQ71zcAAAAA:UXJD2MdzlhdUL5ne-4YOeuTvqB1ErPE0j6u0QSxSscg8X_ddWxPl50OUESPFCUn3MILZgKs"> Eaton et al., 2018 (SRL)</a>. Blue triangles = geophones; red square = co-located accelerometer; green circles = co-located broadband stations. </figcaption>
 </figure>
 
-<h2> Download from IRIS </h2>
+<h2> Data Download from IRIS </h2>
 
 <p> Continuous seismic data from the ToC2ME field program will be released through <a href="https://ds.iris.edu/ds/nodes/dmc/forms/breqfast-request/"> IRIS </a> on 1 July 2020. Users will need the following information to download the full dataset: </p>
 
@@ -36,6 +36,10 @@
 <p> Please be aware that the network code 5B has been used for a number of temporary seismic deployments over the years with data housed at IRIS. In order to download the ToC2ME data, the correct dates in 2016 need to be inserted. The full station list and associated metadata can be found <a href="https://ds.iris.edu/mda/5B/?starttime=2016-01-01T00:00:00&endtime=2017-12-31T23:59:59"> here</a>. </p>
 
 <h2> References </h2>
+
+<p> We ask that any publications arising from this dataset reference <a href="https://pubs.geoscienceworld.org/ssa/srl/article/543218/induced-seismicity-characterization-during?casa_token=yArCmgQ71zcAAAAA:UXJD2MdzlhdUL5ne-4YOeuTvqB1ErPE0j6u0QSxSscg8X_ddWxPl50OUESPFCUn3MILZgKs"> Eaton et al., 2018 (SRL)</a>. </p>
+
+<p> If you take advantage of the published catalogues listed here, see the folder README file for details of the reference you need! </p>
 
 <h2> Contact </h2>
 
