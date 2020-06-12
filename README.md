@@ -29,6 +29,7 @@
 
 <ul>
   <li>Network Code: 5B </li>
+    <li>Stations begin with: 1* </li>
   <li>Data Start: 2016-10-25 </li>
   <li>Data End: 2016-12-01 </li>
 </ul>
