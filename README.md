@@ -1,7 +1,7 @@
 <body>
 <h2> Overview </h2>
 
-<p> Previously published catalogues using data from the ToC2ME field program are archived here. Summaries of the research undertaken, the published catalogue, and a link to the published paper can be found within each corresponding folder. </p>
+<p> Previously published catalogues using data from the ToC2ME field program are archived here. Summaries of the research undertaken, the published catalogue, and a link to the published paper can be found within each corresponding folder and README.md file. </p>
     
 <b> Eaton:</b>
     
