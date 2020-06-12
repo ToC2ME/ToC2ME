@@ -10,5 +10,5 @@
 
 <ul>
   <li> There are a number of know duplicate events within this catalog, which can be removed if necessary. </li>
-  <li> A number of events from this catalog were used in the work of Poulin et al. (see <a href="https://github.com/ToC2ME/ToC2ME/tree/master/poulin"> Poulin</a> on this site). </li>
+  <li> A number of events from this catalog were used in the work of Poulin et al. (see <a href="https://github.com/ToC2ME/ToC2ME/tree/master/Poulin"> Poulin</a> on this site). </li>
 </ul> 
