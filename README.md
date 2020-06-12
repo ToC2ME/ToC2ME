@@ -39,7 +39,7 @@ In accordance to the data becoming public, catalogues which have been worked on 
 
 <h2> Contact </h2>
 
-<p> Questions regarding the catalogue, the download of data and/or previous work utilizing the ToC2ME datasets can be directed to toc2me@ucalgary.ca. </p>
+<p> Questions regarding the catalogue, the download of data and/or previous work utilizing the ToC2ME datasets can be directed to <a href="mailto:toc2me@ucalgary.ca">toc2me@ucalgary.ca</a>. </p>
 
 <p> Github site maintained by the University of Calgary. </p>
 
