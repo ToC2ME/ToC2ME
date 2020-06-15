@@ -6,10 +6,9 @@
 
 <h2> Summary </h2>
 
-<p> Total number of events detected: 4083. </p>
+<p> Total number of events detected: >25,000 using match-filtering; ~14,000 using stacked amplitude envelope threshold; 4083 high quality events with phase picks available in this catalog. </p>
 
-<p> Event detection using a threshold based stack of the amplitude-envelope for the 3C geophone traces. From this, 15 candidate events with high signal-to-noise were used as templates in a match-filtering algorithm after <a href="https://academic.oup.com/gji/article/206/1/644/2606547"> Caffagni et al., 2016</a>. Hypocenter locations determined using a layered 1D blocked P-wave velocity model using data from a nearby sonic-log via a modified direct global search method (<a href="https://www.researchgate.net/profile/Andrew_Curtis2/publication/27774082_Earthquake_Location_Direct_Global-Search/links/02e7e52c840078db52000000.pdf">Lomax et al., 2014</a>). 
-Relative locations of all event detected using the match filter approach were determined from their template event. Seismic moment magnitudes for all events were estimated by fitting the low‐frequency plateau of the S‐wave displacement spectrum based on the model by <a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/jb075i026p04997">Brune, 1970</a>. </p>
+<p> Event detection using a threshold based stack of the amplitude-envelope for the 3C geophone traces yielding ~14,000 events. From this, 15 candidate events with high signal-to-noise were used as templates in a match-filtering algorithm after <a href="https://academic.oup.com/gji/article/206/1/644/2606547"> Caffagni et al., 2016</a>, yielding > 25,000 putative evetns. 4,083 events manually checked and phase picked. Hypocenter locations determined using a layered 1D blocked P-wave velocity model using data from a nearby sonic-log via a modified direct global search method (<a href="https://www.researchgate.net/profile/Andrew_Curtis2/publication/27774082_Earthquake_Location_Direct_Global-Search/links/02e7e52c840078db52000000.pdf">Lomax et al., 2014</a>). Relative locations of all event detected using the match filter approach were determined from their template event. Seismic moment magnitudes for all events were estimated by fitting the low‐frequency plateau of the S‐wave displacement spectrum based on the model by <a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/jb075i026p04997">Brune, 1970</a>. </p>
 
 <h2> Notes </h2>
 
