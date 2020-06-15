@@ -15,4 +15,7 @@
 <ul>
   <li> Locations are given within a reference frame, rather than as absolute co-ordinates, with the reference being the minimum of the receiver locations. </li>
  </ul> 
+ 
+<h2> Use of developed code </h2>
 
+The codes developed here for the determination of epicentre location and focal time of seismic events are provided within the folder <a href="https://github.com/ToC2ME/ToC2ME/tree/master/Rodriguez-Pradilla/LinEpiLoc_ToC2ME_Demo">"LinEpiLoc_ToC2ME_Demo"</a>. Please see the <a href="https://github.com/ToC2ME/ToC2ME/blob/master/Rodriguez-Pradilla/LinEpiLoc_ToC2ME_Demo/README.md"> README.md </a> within this folder for detailed usage, and an example script of how to implement this code.  
