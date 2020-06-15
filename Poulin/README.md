@@ -6,7 +6,7 @@
 
 <h2> Summary </h2>
 
-<p> Total number of events detected: 12,663. </p>
+<p> Total number of events located: 12,663. Initial event detections taken from stacked amplitude envelope method of <a href="https://pubs.geoscienceworld.org/ssa/srl/article/543218/induced-seismicity-characterization-during?casa_token=yArCmgQ71zcAAAAA:UXJD2MdzlhdUL5ne-4YOeuTvqB1ErPE0j6u0QSxSscg8X_ddWxPl50OUESPFCUn3MILZgKs"> Eaton et al., 2018 (SRL). </a> </p>
 
 <p> Focal-time analysis is a straightforward, data-driven method to obtain robust stratigraphic depth control for microseismicity or induced seismic events. The method eliminates the necessity to build an explicit, calibrated velocity model for hypocenter depth estimation, although it requires multicomponent 3-D seismic data that is co-located with surface or near-surface microseismic observations. Event focal depths are initially expressed in terms of zero-offset focal time (two-way P-P reflection time), to facilitate registration and visualization with 3-D seismic data. Application of the focal-time method requires: 1) high-quality P- and S-wave time picks, which are extrapolated to zero offset, and 2) registration of correlative P-P and P-S reflections to provide VP and VS time-depth control. We demonstrate the utility of this method by applying it to a microseismic and induced-seismicity dataset recorded with a shallow-borehole monitoring array in Alberta, Canada, combined with high quality multicomponent surface seismic data. </p>
 
