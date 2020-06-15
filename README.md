@@ -3,13 +3,13 @@
 
 <p> Previously published catalogues using data from the ToC2ME field program are archived here. Summaries of the research undertaken, the published catalogue, and a link to the published paper can be found within each corresponding folder and README.md file. </p>
     
-<b> Eaton:</b>
+<b> Eaton:</b> >25,000 putative event detections using 15 templates (high signal-to-noise) in match-filtering analysis, of which ~14,000 events detected using a stacked amplitude envelope method. Hypocenter locations determined for 4083 high quality events from a global search methodology, and subsequently relocated using cross correlations. Momement magnitudes determined using S-wave displacement spectrum (4083 events).
     
-<b> Igonin:</b>
+<b> Igonin:</b> 18,040 events located from original match-filter catalog of <a href="https://pubs.geoscienceworld.org/ssa/srl/article/543218/induced-seismicity-characterization-during?casa_token=yArCmgQ71zcAAAAA:UXJD2MdzlhdUL5ne-4YOeuTvqB1ErPE0j6u0QSxSscg8X_ddWxPl50OUESPFCUn3MILZgKs"> Eaton et al., 2018 (SRL) </a> using a beamforming methodology by stacking waveforms along ray-tracing travel times within a volume. Momement magnitudes determined using S-wave displacement spectrum.
    
-<b> Poulin:</b>
-    
-<b> Rodriguez-Pradilla:</b>
+<b> Poulin:</b> 12,663 events located from original stacked-amplitude catalog of <a href="https://pubs.geoscienceworld.org/ssa/srl/article/543218/induced-seismicity-characterization-during?casa_token=yArCmgQ71zcAAAAA:UXJD2MdzlhdUL5ne-4YOeuTvqB1ErPE0j6u0QSxSscg8X_ddWxPl50OUESPFCUn3MILZgKs"> Eaton et al., 2018 (SRL) </a> using P- and S-wave time picks being correlated to P-P and P-S reflections to provide VP and VS time-depth control. 
+     
+<b> Rodriguez-Pradilla:</b> 10,691 events detected using 17 templates (high signal-to-noise) in match filtering analysis and automatic phase picking determined by an STA/LTA algorithm. Events located in X and Y using the noraml moveout equation; depths obtained by finding the depth that minimizes the root-mean-square (RMS) of the traveltime residuals.
   
 
 <h2> The ToC2ME Field Program </h2>
