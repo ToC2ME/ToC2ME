@@ -25,7 +25,7 @@
 
 <h2> Data Download from IRIS </h2>
 
-<p> Continuous seismic data from the ToC2ME field program will be released through <a href="https://ds.iris.edu/ds/nodes/dmc/forms/breqfast-request/"> IRIS </a> on 1 July 2020. Users will need the following information to download the full dataset: </p>
+<p> Continuous seismic data from the ToC2ME field program will be released through IRIS on 1 July 2020, and can be requested using the BREQ_FAST tool <a href="https://ds.iris.edu/ds/nodes/dmc/forms/breqfast-request/"> here</a>. Users will need the following information to download the full dataset: </p>
 
 <ul>
   <li>Network Code: 5B </li>
