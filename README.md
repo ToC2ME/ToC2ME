@@ -1,5 +1,17 @@
 <body>
-<h2> Overview </h2>
+    
+<h2> The ToC2ME Field Program </h2>
+
+<p> The Tony Creek Dual Microseismic Experiment (ToC2ME) field program was a research-led project by the University of Calgary, in collaboration with a number of industry partners, investigating hydraulic fracturing within the Kaybob-Duvernay horizon in the Fox Creek area, Alberta. The ToC2ME acquisition system consisted of 69 cemented shallow boreholes, each with one three-component geophone at 27 m, and three one-component geophones at 22 m, 17 m and 12 m respectively (all OYO Geospace Seismic Recorder (GSX)-3 sensors with a sampling rate of 0.002 seconds). Furthermore, 6 boradband seismometers (Nanometrics Trillium Compact 20s) and 1 strong-motion accelerometer were co-located to allow enhanced analysis of the recorded seismicity. These sensors continuously monitored a four-well hydraulic fracture experiment for ~40 days in late 2016. </p>
+
+<p> The ToC2ME data set is the focus of ongoing investigation by researchers at the University of Calgary and the University of Alberta. </p>
+
+<figure>
+  <p><img src="https://github.com/ToC2ME/ToC2ME/blob/master/Eaton2018_ToC2ME_Setup.png" alt="ToC2ME Geophone setup - Eaton et al., 2018 (SRL)" width="500" height="300px" text-align="center" font-style="italic" font-size="smaller" >
+  <figcaption> Geophone Setup, Figure taken from <a href="https://pubs.geoscienceworld.org/ssa/srl/article/543218/induced-seismicity-characterization-during?casa_token=yArCmgQ71zcAAAAA:UXJD2MdzlhdUL5ne-4YOeuTvqB1ErPE0j6u0QSxSscg8X_ddWxPl50OUESPFCUn3MILZgKs"> Eaton et al., 2018 (SRL)</a>. Blue triangles = geophones; red square = co-located accelerometer; green circles = co-located broadband stations. </figcaption>
+</figure>
+
+<h2> Overview of Published Catalogs </h2>
 
 <p> Previously published catalogues using data from the ToC2ME field program are archived here. Summaries of the research undertaken, the published catalogue, and a link to the published paper can be found within each corresponding folder and README.md file. </p>
     
@@ -10,18 +22,6 @@
 <b> Poulin:</b> 12,663 events located from original stacked-amplitude catalog of <a href="https://pubs.geoscienceworld.org/ssa/srl/article/543218/induced-seismicity-characterization-during?casa_token=yArCmgQ71zcAAAAA:UXJD2MdzlhdUL5ne-4YOeuTvqB1ErPE0j6u0QSxSscg8X_ddWxPl50OUESPFCUn3MILZgKs"> Eaton et al., 2018 (SRL) </a> using P- and S-wave time picks being correlated to P-P and P-S reflections to provide VP and VS time-depth control. 
      
 <b> Rodriguez-Pradilla:</b> 10,691 events detected using 17 templates (high signal-to-noise) in match filtering analysis and automatic phase picking determined by an STA/LTA algorithm. Events located in X and Y using the noraml moveout equation; depths obtained by finding the depth that minimizes the root-mean-square (RMS) of the traveltime residuals.
-  
-
-<h2> The ToC2ME Field Program </h2>
-
-<p> The Tony Creek Dual Microseismic Experiment (ToC2ME) field program was a research-led project by the University of Calgary, in collaboration with a number of industry partners, investigating hydraulic fracturing within the Kaybob-Duvernay horizon in the Fox Creek area, Alberta. The ToC2ME acquisition system consisted of 69 cemented shallow boreholes, each with one three-component geophone at 27 m, and three one-component geophones at 22 m, 17 m and 12 m respectively (all OYO Geospace Seismic Recorder (GSX)-3 sensors with a sampling rate of 0.002 seconds). Furthermore, 6 boradband seismometers (Nanometrics Trillium Compact 20s) and 1 strong-motion accelerometer were co-located to allow enhanced analysis of the recorded seismicity. These sensors continuously monitored a four-well hydraulic fracture experiment for ~40 days in late 2016. </p>
-
-<p> The ToC2ME data set has been commercially processed by two independent companies, and is the focus of ongoing investigation by researchers at the University of Calgary and the University of Alberta. </p>
-
-<figure>
-  <p><img src="https://github.com/ToC2ME/ToC2ME/blob/master/Eaton2018_ToC2ME_Setup.png" alt="ToC2ME Geophone setup - Eaton et al., 2018 (SRL)" width="500" height="300px" text-align="center" font-style="italic" font-size="smaller" >
-  <figcaption> Geophone Setup, Figure taken from <a href="https://pubs.geoscienceworld.org/ssa/srl/article/543218/induced-seismicity-characterization-during?casa_token=yArCmgQ71zcAAAAA:UXJD2MdzlhdUL5ne-4YOeuTvqB1ErPE0j6u0QSxSscg8X_ddWxPl50OUESPFCUn3MILZgKs"> Eaton et al., 2018 (SRL)</a>. Blue triangles = geophones; red square = co-located accelerometer; green circles = co-located broadband stations. </figcaption>
-</figure>
 
 <h2> Data Download from IRIS </h2>
 
