@@ -38,7 +38,7 @@ to execute the Script for epicentre location, listed in the script
    
 <p> Once executed, the script exports a text file with the epicentre locations and 
 focal time for all the seismic events that had manual picks for P- and/or S-wave
-arrivals, and two figures of the implementation of the linearozed epicentre location
+arrivals, and two figures of the implementation of the linearized epicentre location
 method on one event, and a map plot with the obtained epicentres and Mean coefficient
 of determination (Mean R2) of the located events. </p>
 
@@ -49,6 +49,6 @@ and then defining them in a new MATLAB script with its name ending with "_SetInp
 
 <h2> Reference </h2>
   
-<p> Catalog_Rodriguez-Pradilla2019_PhDThesis.csv contains the seismic catalog published in the PhD Thesis by G. Rodriguez-Pradilla, Univeristy of Calgary, which can be found <a href="https://prism.ucalgary.ca/handle/1880/111335"> here:</a></p>
+<p> Catalog_Rodriguez-Pradilla2019_PhDThesis.csv contains the seismic catalogue published in the PhD Thesis by G. Rodriguez-Pradilla, Univeristy of Calgary, which can be found <a href="https://prism.ucalgary.ca/handle/1880/111335"> here:</a></p>
 
 <blockquote> Rodríguez-Pradilla, G. (2019). Microseismic Monitoring of a Duvernay Hydraulic-Fracturing Stimulation, Alberta Canada: Processing and Interpretation assisted by Finite-Difference Synthetic Seismograms. PhD Thesis, University of Calgary, Calgary, AB. </blockquote>
