@@ -25,7 +25,7 @@
 
 <h2> Data Download from IRIS </h2>
 
-<p> Continuous seismic data from the ToC2ME field program will be released through IRIS on 1 July 2020, and can be requested using the BREQ_FAST tool <a href="https://ds.iris.edu/ds/nodes/dmc/forms/breqfast-request/"> here</a>. Users will need the following information to download the full dataset: </p>
+<p> Continuous seismic data from the ToC2ME field program was released through IRIS on 1 July 2020, and can be requested using the BREQ_FAST tool <a href="https://ds.iris.edu/ds/nodes/dmc/forms/breqfast-request/"> here</a>. Users will need the following information to download the full dataset: </p>
 
 <ul>
   <li>Network Code: 5B </li>
@@ -36,7 +36,7 @@
   <li>Accelerometer: 1158. </li>
 </ul>
 
-<p> Please be aware that the network code 5B has been used for a number of temporary seismic deployments over the years with data housed at IRIS. In order to download the ToC2ME data, the correct dates in 2016 need to be inserted. The full station list and associated metadata can be found <a href="https://ds.iris.edu/mda/5B/?starttime=2016-01-01T00:00:00&endtime=2017-12-31T23:59:59"> here</a>. </p>
+<p> Please be aware that the network code 5B has been used for a number of other temporary seismic deployments over the years with data housed at IRIS. In order to download the ToC2ME data, the correct dates in 2016 need to be inserted. The full station list and associated metadata can be found <a href="https://ds.iris.edu/mda/5B/?starttime=2016-01-01T00:00:00&endtime=2017-12-31T23:59:59"> here</a>. </p>
 
 <h2> References </h2>
 
