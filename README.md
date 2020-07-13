@@ -29,9 +29,11 @@
 
 <ul>
   <li>Network Code: 5B </li>
-    <li>Stations begin with: 1* (to avoid conflict with data from the NCEDC network which was also operational in the Fall of 2016) </li>
+  <li>Stations begin with: 1* (to avoid conflict with data from the NCEDC network which was also operational in the Fall of 2016) </li>
   <li>Data Start: 2016-10-25 </li>
   <li>Data End: 2016-12-01 </li>
+  <li>Broadband Stations: 1109, 1112, 1141, 1147, 1166, 1178. Location code within IRIS: -- </li>
+  <li>Accelerometer: 1158. </li>
 </ul>
 
 <p> Please be aware that the network code 5B has been used for a number of temporary seismic deployments over the years with data housed at IRIS. In order to download the ToC2ME data, the correct dates in 2016 need to be inserted. The full station list and associated metadata can be found <a href="https://ds.iris.edu/mda/5B/?starttime=2016-01-01T00:00:00&endtime=2017-12-31T23:59:59"> here</a>. </p>
@@ -49,5 +51,9 @@
 <p> Questions regarding the catalogue, the download of data and/or previous work utilizing the ToC2ME datasets can be directed to <a href="mailto:toc2me@ucalgary.ca">toc2me@ucalgary.ca</a>. </p>
 
 <p> Github site maintained by the University of Calgary. </p>
+
+<h2> Acknowledgements </h2>
+
+<p> The ToC2ME program was enabled by generous support from two anonymous companies. Continuous geophone data were collected by Terra-Sine Resources and recorded under license from Microseismic Inc. for use of the BuriedArray method. We thank IRIS for their continued efforts for data management, which fosters collaboration. </p>
 
 </body>
