@@ -38,6 +38,12 @@
 
 <p> Please be aware that the network code 5B has been used for a number of other temporary seismic deployments over the years with data housed at IRIS. In order to download the ToC2ME data, the correct dates in 2016 need to be inserted. The full station list and associated metadata can be found <a href="https://ds.iris.edu/mda/5B/?starttime=2016-01-01T00:00:00&endtime=2017-12-31T23:59:59"> here</a>. </p>
 
+<h2> *** Known Issues *** </h2>
+
+<ul>
+    <li> The instrument response information for the <b>geophones</b> available through IRIS is <b><i>incorrect</i></b> - We are working as quickly as possible to resolve the issue and get the correct response information to IRIS. If you have already downloaded any part of the ToC2ME dataset from IRIS, please send an email to <a href="mailto:toc2me@ucalgary.ca">toc2me@ucalgary.ca</a> so that we can provide you with the correct information as soon as we have it. 
+</ul>
+
 <h2> References </h2>
 
 <p> We ask that any publications arising from this dataset reference <a href="https://pubs.geoscienceworld.org/ssa/srl/article/543218/induced-seismicity-characterization-during?casa_token=yArCmgQ71zcAAAAA:UXJD2MdzlhdUL5ne-4YOeuTvqB1ErPE0j6u0QSxSscg8X_ddWxPl50OUESPFCUn3MILZgKs"> Eaton et al., 2018 (SRL)</a>: </p>
