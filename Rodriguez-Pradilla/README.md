@@ -4,6 +4,10 @@
 
 <blockquote> Rodríguez-Pradilla, G. (2019). Microseismic Monitoring of a Duvernay Hydraulic-Fracturing Stimulation, Alberta Canada: Processing and Interpretation assisted by Finite-Difference Synthetic Seismograms. PhD Thesis, University of Calgary, Calgary, AB. </blockquote>
 
+<p> Recent publication using this catalog: </p>
+
+<blockquote> Rodríguez-Pradilla, G. and Eaton, D. W. (2020). Automated Microseismic Processing and Integrated Interpretation of Induced Seismicity during a Multistage Hydraulic‐Fracturing Stimulation, Alberta, Canada. Bulletin of the Seismological Society of America ; 110 (5): 2018–2030. doi: <a href="https://doi.org/10.1785/0120200082">https://doi.org/10.1785/0120200082</a> </blockquote>
+
 <h2> Summary </h2>
 
 <p> Total number of events detected: 10,691. </p>
