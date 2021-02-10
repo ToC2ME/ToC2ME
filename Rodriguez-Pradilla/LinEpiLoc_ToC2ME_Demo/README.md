@@ -48,7 +48,11 @@ and picked P- and S-wave arrival times, in the same format as the four input fil
 and then defining them in a new MATLAB script with its name ending with "_SetInputFiles.m". </p>
 
 <h2> Reference </h2>
+
+<p> This code was used to produce the catalogue published in: </p>
+
+<blockquote> Rodríguez-Pradilla, G. and Eaton, D. W. (2020). Automated Microseismic Processing and Integrated Interpretation of Induced Seismicity during a Multistage Hydraulic‐Fracturing Stimulation, Alberta, Canada. Bulletin of the Seismological Society of America ; 110 (5): 2018–2030. doi: <a href="https://doi.org/10.1785/0120200082">https://doi.org/10.1785/0120200082</a> </blockquote>
   
-<p> Catalog_Rodriguez-Pradilla2019_PhDThesis.csv contains the seismic catalogue published in the PhD Thesis by G. Rodriguez-Pradilla, Univeristy of Calgary, which can be found <a href="https://prism.ucalgary.ca/handle/1880/111335"> here:</a></p>
+<p> and </p>
 
 <blockquote> Rodríguez-Pradilla, G. (2019). Microseismic Monitoring of a Duvernay Hydraulic-Fracturing Stimulation, Alberta Canada: Processing and Interpretation assisted by Finite-Difference Synthetic Seismograms. PhD Thesis, University of Calgary, Calgary, AB. </blockquote>
