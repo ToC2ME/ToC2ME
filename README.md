@@ -20,8 +20,8 @@
 <b> Igonin:</b> 18,040 events located from original match-filter catalogue of <a href="https://pubs.geoscienceworld.org/ssa/srl/article/543218/induced-seismicity-characterization-during?casa_token=yArCmgQ71zcAAAAA:UXJD2MdzlhdUL5ne-4YOeuTvqB1ErPE0j6u0QSxSscg8X_ddWxPl50OUESPFCUn3MILZgKs"> Eaton et al., 2018 (SRL) </a> using a beamforming methodology by stacking waveforms along ray-tracing travel times within a volume. Moment magnitudes determined using S-wave displacement spectrum.
 
 <a href="https://library.seg.org/doi/full/10.1190/geo2019-0046.1"> <b> Poulin:</b> </a> 12,663 events located from original stacked-amplitude catalogue of <a href="https://pubs.geoscienceworld.org/ssa/srl/article/543218/induced-seismicity-characterization-during?casa_token=yArCmgQ71zcAAAAA:UXJD2MdzlhdUL5ne-4YOeuTvqB1ErPE0j6u0QSxSscg8X_ddWxPl50OUESPFCUn3MILZgKs"> Eaton et al., 2018 (SRL) </a> using P- and S-wave time picks being correlated to P-P and P-S reflections to provide VP and VS time-depth control. 
-     
-<b> Rodriguez-Pradilla:</b> 10,691 events detected using 17 templates (high signal-to-noise) in match filtering analysis and automatic phase picking determined by an STA/LTA algorithm. Events located in X and Y using the normal move-out equation; depths obtained by finding the depth that minimizes the root-mean-square (RMS) of the travel time residuals.
+
+ <a href="https://doi.org/10.1785/0120200082"> <b> Rodriguez-Pradilla:</b> </a> 10,691 events detected using 17 templates (high signal-to-noise) in match filtering analysis and automatic phase picking determined by an STA/LTA algorithm. Events located in X and Y using the normal move-out equation; depths obtained by finding the depth that minimizes the root-mean-square (RMS) of the travel time residuals.
 
 <h2> Data Download from IRIS </h2>
 
