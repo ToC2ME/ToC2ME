@@ -1,8 +1,8 @@
 <h2> Reference </h2>
   
-<p> Catalog_Igonin2020_Beamforming.csv contains the seismic catalog from Igonin et al., the publication for which is currently under review with JGR. </p>
+<p> Catalog_Igonin2020_Beamforming.csv contains the seismic catalog from Igonin et al., (2021), Accepted for JGR Solid Earth. </p>
 
-<blockquote> Igonin, N., Verdon, J., Kendall, J.M., and Eaton, D., The importance of pre-existing fracture networks for fault reactivation during hydraulic fracturing. <i>Journal of Geophysical Research: Solid Earth,</i> in review. </blockquote>
+<blockquote> Igonin, N., Verdon, J., Kendall, J.M., and Eaton, D., Large‐scale fracture systems are permeable pathways for fault activation during hydraulic fracturing. <i>Journal of Geophysical Research: Solid Earth,</i> Accepted. <a href="https://doi.org/10.1029/2020JB020311"> https://doi.org/10.1029/2020JB020311 </a> </blockquote>
 
 <h2> Summary </h2>
 
