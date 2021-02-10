@@ -1,8 +1,6 @@
 <h2> References </h2>
 
 <blockquote> Rodríguez-Pradilla, G. and Eaton, D. W. (2020). Automated Microseismic Processing and Integrated Interpretation of Induced Seismicity during a Multistage Hydraulic‐Fracturing Stimulation, Alberta, Canada. Bulletin of the Seismological Society of America ; 110 (5): 2018–2030. doi: <a href="https://doi.org/10.1785/0120200082">https://doi.org/10.1785/0120200082</a> </blockquote>
-  
-<p> Catalog_Rodriguez-Pradilla2019_PhDThesis.csv contains the seismic catalogue published in the PhD Thesis by G. Rodriguez-Pradilla, Univeristy of Calgary, which can be found </p>
 
 <blockquote> Rodríguez-Pradilla, G. (2019). <a href="https://prism.ucalgary.ca/handle/1880/111335"> Microseismic Monitoring of a Duvernay Hydraulic-Fracturing Stimulation, Alberta Canada: Processing and Interpretation assisted by Finite-Difference Synthetic Seismograms. </a> PhD Thesis, University of Calgary, Calgary, AB. </blockquote>
 
